@@ -1,0 +1,20 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-openui5": "^0.13.0"
+  },
+  "scripts": {
+    "start": "grunt serve",
+    "build": "grunt build"
+  },
+  "author": "",
+  "license": "ISC"
+}
