@@ -1,5 +1,7 @@
 # Developing SAPUI5 Applications with Visual Studio Code
-This is a companion repository to the blogpost [Developing SAPUI5 Applications with Visual Studio Code](https://www.newventuresoftware.com/blog/developing-sapui5-applications-with-visual-studio-code)
+This is a companion repository to the blogpost [Developing SAPUI5 Applications with Visual Studio Code](https://www.newventuresoftware.com/blog/developing-sapui5-applications-with-visual-studio-code).
+
+![Developing SAPUI5 Applications with Visual Studio Code Cover Image](cover.jpg "Cover")
 
 ## License
 
